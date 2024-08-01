@@ -60,8 +60,6 @@ export default function Home() {
             </span>
           </h2>
         </a>
-
-
       </div>
     </main>
   );
