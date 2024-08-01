@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: 'laviniacraft',
+            name: 'mskbakim',
             script: 'npm',
             args: 'start',
             env: {
