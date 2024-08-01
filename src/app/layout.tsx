@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Under Maintenance | LaviniaCraft",
-  description: "Our website is currently undergoing maintenance.",
+  title: "Bakımdayız | MSK Mühendislik",
+  description: "Websitemiz şu anda bakımdadır",
 };
 
 export default function RootLayout({
