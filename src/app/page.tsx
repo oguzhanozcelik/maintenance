@@ -14,8 +14,8 @@ export default function Home() {
         />
       </div>
       <div className="text-center text-gray-900 font-weight-bold mt-8 mb-8">
-        <h1 className="text-3xl mb-3">Under Maintenance</h1>
-        <p className="text-xl mb-5">Our website is currently undergoing maintenance. We'll be back shortly.</p>
+        <h1 className="text-3xl mb-3 dark:text-white">Under Maintenance</h1>
+        <p className="text-xl mb-5 dark:text-white">Our website is currently undergoing maintenance. We'll be back shortly.</p>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
