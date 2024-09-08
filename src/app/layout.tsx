@@ -16,7 +16,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <head>
+        <title>Lavinia Craft Art</title>
+        <meta name="p:domain_verify" content="7fb9072a836364473fdf324d9841bd48"/>
+    </head>
+    <body className={inter.className}>{children}</body>
     </html>
   );
 }
